@@ -15,6 +15,8 @@ It is totally responsive, so try to access in your phone too
  - React - TypeScript
  - CSS Modules
  - JS Cookies
+ - Browser Notification
+ - Sound 
  
 ### ✔ You can:
 - Start a Cycle to Study or Work
