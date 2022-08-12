@@ -1,34 +1,47 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+# 🚀 Move.it 🚀
 
-First, run the development server:
+This is a 
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+We built a Simple Pomodoro Timer with a Challenge after the Timer ends, to train our fundamentals about React
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+It is totally responsive, so try to access in your phone too
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+### 👉 Link to Access: https://move-it-xi-ten.vercel.app/
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+## ⚙ Config Section
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+ ### 🛠 Tools:
+ - React - TypeScript
+ - CSS Modules
+ - JS Cookies
+ 
+### ✔ You can:
+- Start a Cycle to Study or Work
+  - After the Cycle end, you will able to do a Challenge
 
-## Learn More
 
-To learn more about Next.js, take a look at the following resources:
+ ## 📸 Screenshot Section
+### 💻 Desktop Mode
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Initial Page
+![image](https://user-images.githubusercontent.com/62482908/184427572-6b0e3a38-02a1-4141-ba7c-fc02dda9e876.png)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## Timer Running
+![image](https://user-images.githubusercontent.com/62482908/184427614-a4327c80-3daa-4dee-a3c8-1aa729bbadf4.png)
 
-## Deploy on Vercel
+## Timer ends and Challenge to do
+![image](https://user-images.githubusercontent.com/62482908/184427649-e8e2ebea-3a49-4a6c-a373-e9aec903241f.png)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Level Up Modal
+![image](https://user-images.githubusercontent.com/62482908/184427736-04ff8d5a-eeb0-4f56-a32b-3db3c95d610b.png)
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+### 💻 Mobile Mode
+
+## Initial Page
+![image](https://user-images.githubusercontent.com/62482908/184427686-06d43c86-2f8d-4ba0-8fbc-477b8edf8cdd.png)
+
+
+
+
+👉 Visit my linkedin: https://www.linkedin.com/in/pedrovdf/
